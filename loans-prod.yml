@@ -8,7 +8,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank Loans related prod API'S"
+  message: "Welcome to EazyBank Loans related production API'S"
   contactDetails:
     name: "Pelias Sudhir -Product Owner"
     email: "pelias@eazybank.com"
