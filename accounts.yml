@@ -30,7 +30,7 @@ build:
  version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local API'S"
+  message: "Welcome to EazyBank accounts related local webhook API'S"
   contactDetails:
     name: "John Doe-Developer"
     email: "jSb2t@example.com"
