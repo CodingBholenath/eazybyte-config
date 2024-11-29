@@ -8,7 +8,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank Loans related webhook API'S"
+  message: "Welcome to EazyBank Loans related webhook.com API'S"
   contactDetails:
     name: "Pelias Sudhir -Product Owner"
     email: "pelias@eazybank.com"
