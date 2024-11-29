@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related git webhook API'S"
+  message: "Welcome to EazyBank accounts related git  API'S"
   contactDetails:
     name: "Reine Aishwarya-Product Owner"
     email: "{cipher}ffbbb55aa3891754a4720ead4753eb33bbabe9c0a65672221a9f1c8756f2fd92893b1791962e53941ec801fca983d683"
